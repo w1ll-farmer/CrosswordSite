@@ -4,3 +4,7 @@ textarea{
     height:20px;
     width:20px;
 }
+
+.unused{
+    color:grey;
+}
