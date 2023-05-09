@@ -1,10 +1,22 @@
-textarea{
-    font-size:12pt;
-    resize:none;
-    height:20px;
-    width:20px;
-}
+
 
 .unused{
     color:grey;
+}
+
+h1{
+    text-align: center;
+    font-size:24pt;
+    border-color: black;
+
+}
+
+.letterbox{
+    width:25px;
+    height:25px;
+    font-size: 12pt;
+    text-align: center;
+    font-family:Arial;
+    border-color:black;
+    
 }
